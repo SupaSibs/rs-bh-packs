@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "My attack cow behavior pack Add-On!",
+    "name": "ectoplasm",
+    "uuid": "e2129b76-c0a9-4a96-b7af-346a66269286",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules":
+    [
+      {
+        "description": "My First Add-On!",
+          "type": "data",
+          "uuid": "3c959e7f-2abf-4621-bb74-418539e20928",
+          "version": [1, 0, 0]
+      }
+    ],
+  "dependencies": [
+   {
+    "uuid": "e9a4bb0a-5654-4efd-9924-047e32311b11",
+      "version":[1,0,0]
+    }
+ ]
+}

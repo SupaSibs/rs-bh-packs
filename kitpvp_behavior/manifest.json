@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "KitPVP Function Pack",
+    "name": "KitPVP Behavior Pack",
+    "uuid":"b34bcd60-167b-4698-a704-b570d675b59c",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules":
+    [
+      {
+        "description": "My KitPVP Addon",
+          "type": "data",
+          "uuid": "3f26e85b-0ed4-4f7b-85f5-8896c3d5e393",
+          "version": [1, 0, 0]
+      }
+    ],
+  "dependencies": [
+ ]
+}

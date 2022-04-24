@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "My dirt resource pack Add-On!",
+   "name": "My Resource Pack",
+  "uuid": "afb264b2-2efb-4a40-a5e4-0b74f5a85d05",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "My First Add-On!",
+     "type": "resources",
+     "uuid": "f6a4ef94-9172-4658-805a-cc415617657e",
+     "version": [1, 0, 0]
+   }
+ ]
+}

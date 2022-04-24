@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "My dirt resource pack Add-On!",
+   "name": "ectoplasm",
+  "uuid": "e9a4bb0a-5654-4efd-9924-047e32311b11",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "My First Add-On!",
+     "type": "resources",
+     "uuid":"8624def1-2aed-4f2f-9e3a-48e5876b3c3a",
+     "version": [1, 0, 0]
+   }
+ ]
+}
